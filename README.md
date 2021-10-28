@@ -1,5 +1,4 @@
 # menghitung-lingkaran
-# menghitung lingkaran
 Mmenghitung luas dan keliling lingkaran
 
 Luas     = phi * (r * r)
