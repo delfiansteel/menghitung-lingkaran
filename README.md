@@ -15,7 +15,7 @@ Flowchart Menghitung Luas dan Keliling Lingkaran
 
 
 Program Menghitung Luas dan Keliling Lingkaran 
-![img](2.png)
+<img src="https://github.com/delfiansteel/menghitung-lingkaran/blob/main/screenshot/2.png">
 
 Penjelasan
 
@@ -24,4 +24,4 @@ Kita menggunakan jari-jari (r) yang nantinya akan dimasukan user pada layar. Kit
 Ketika nilai jari-jarinya sudah dimasukkan selanjutnya kita bisa menghitung luas dan keliling lingkaran dengan rumusnya.
 
 Setelah itu, kita tampilkan hasilnya dengan fungsi print().
-![img](3.png)
+<img src="https://github.com/delfiansteel/menghitung-lingkaran/blob/main/screenshot/3.png">
